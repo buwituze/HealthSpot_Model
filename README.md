@@ -1,7 +1,18 @@
 # HealthSpot
 
+HealthSpot is a machine learning-powered healthcare accessibility model that combines satellite imagery with government health facility data to identify underserved areas in rural Rwanda. The model predicts healthcare access levels and recommends optimal locations for new health facilities using spatial analysis and population density data.
+
+## Problem Statement and Dataset Overview
+
+Many rural areas in Rwanda lack adequate healthcare coverage due to poor facility distribution and limited data-driven planning. This project addresses the need for precise identification of underserved regions with high population density but limited healthcare access.
+
+### Dataset:
+
+- Rwanda Health Facilities (572 facilities with coordinates and types) from geomidwively. Source[https://www.globalmidwiveshub.org/datasets/rwanda-health-facilities-nature/explore?location=-1.881621%2C29.294125%2C8.39]
+- Rwanda Population Density data (1km resolution satellite imagery) from raster datasets. Source[https://hub.worldpop.org/geodata/summary?id=43406]
 
 ## HealthSpot Models Performance Summary
+
 | Model                  | Optimizer   | Regularizer                | Epochs | Early Stopping                               | Layers | Learning Rate | Accuracy | F1 Score | Recall | Precision |
 |------------------------|-------------|----------------------------|--------|----------------------------------------------|--------|---------------|----------|----------|--------|-----------|
 | Logistic Regression    | GridSearchCV| L1/L2 (Best: L2)           | N/A    | N/A                                          | N/A    | N/A           | 99.52%   | 0.9941   | 1.0000 | 0.9882    |
@@ -12,3 +23,8 @@
 | Model 3 - Instance 4   | RMSprop     | L2 (0.001)                 | 60     | No                                           | 3      | 0.005         | 99.03%   | 0.9941   | 1.0000 | 0.9882    |
 | XGBoost                | N/A         | L1 & L2 (GridSearchCV)     | N/A    | N/A                                          | N/A    | 0.1 (best)    | 100.00%  | 1.0000   | 1.0000 | 1.0000    |
 
+## Model Performance Analysis
+
+The XGBoost and Simple Neural Network models achieved the highest performance with perfect scores across all metrics (100% accuracy, 1.0000 F1-score, recall, and precision). Among the optimized neural network instances, Instance 1 (Adam optimizer with L2 regularization and early stopping) and Instance 4 (RMSprop with minimal L2 regularization) demonstrated superior performance with F1-scores of 1.0000 and 0.9941 respectively. The combination of Adam optimizer with L2 regularization (0.01) and early stopping proved most effective for this healthcare accessibility classification task.
+
+The machine learning algorithms (Logistic Regression and XGBoost) outperformed most neural network implementations, with XGBoost achieving perfect classification. The Logistic Regression model's best hyperparameters included L2 regularization with GridSearchCV optimization, demonstrating that simpler models can be highly effective for this spatial classification problem. This suggests that the healthcare accessibility patterns in the dataset have clear linear relationships that traditional ML algorithms can capture effectively without requiring complex deep learning architectures.
