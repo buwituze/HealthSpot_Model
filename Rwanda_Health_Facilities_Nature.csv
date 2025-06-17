@@ -1,0 +1,573 @@
+﻿X,Y,Country,Admin1,Facility_n,Facility_t,Ownership,Lat,Long,LL_source,ObjectId
+3286785.88931496,-276147.439641492,Rwanda,South,Kigeme Health Centre,Health Centre,Public,-2.4799,29.5257,GPS,1
+3385481.74985226,-143692.220388963,Rwanda,East,Bugaragara Health Centre,Health Centre,Public,-1.2907,30.4122999999999,GPS,2
+3336556.83364862,-224310.470995088,Rwanda,South,Kigese Health Centre,Health Centre,Public,-2.0146,29.9727999999999,GPS,3
+3377188.44778817,-192979.510509754,Rwanda,East,Bugarura Health Centre,Health Centre,Public,-1.7333,30.3378,GPS,4
+3316508.19335676,-251847.843672772,Rwanda,South,Kigoma Health Centre,Health Centre,Public,-2.2618,29.7927,GPS,5
+3328964.84437652,-244138.710806976,Rwanda,South,Kinazi Health Centre,Health Centre,Public,-2.1926,29.9045999999999,GPS,6
+3403014.56965221,-194238.000340312,Rwanda,East,Buhabwa Health Centre,Health Centre,Public,-1.7446,30.5698,Geonames,7
+3427137.50330712,-257084.024438672,Rwanda,East,Bukora Health Centre,Health Centre,Public,-2.3088,30.7865,GPS,8
+3300455.92278436,-275356.332474012,Rwanda,South,Kinyamakara Health Centre,Health Centre,Public,-2.4728,29.6484999999999,GPS,9
+3301903.07616468,-268626.520337936,Rwanda,South,Kirambi Health Centre,Health Centre,Public,-2.4124,29.6615,GPS,10
+3372435.1055313,-155306.034472671,Rwanda,East,Cyabayaga Health Centre,Health Centre,Public,-1.395,30.2951,GPS,11
+3328441.64276979,-291825.623904005,Rwanda,South,Kirarambogo Health Centre,Health Centre,Public,-2.6206,29.8998999999999,GPS,12
+3410573.16307707,-224956.524517004,Rwanda,East,Cyarubare Health Centre,Health Centre,Public,-2.0204,30.6376999999999,GPS,13
+3275854.31531905,-280738.173870767,Rwanda,South,Kitabi Health Centre,Health Centre,Public,-2.5211,29.4274999999999,GPS,14
+3353009.85438788,-160383.757925782,Rwanda,East,Cyondo Health Centre,Health Centre,Public,-1.4406,30.1206,GPS,15
+3279449.93487168,-291301.875540489,Rwanda,South,Kivu Health Centre,Health Centre,Public,-2.6159,29.4598,GPS,16
+3371422.09816508,-207079.492149656,Rwanda,East,Fumbwe Health Post,Health Post,Public,-1.8599,30.286,Geonames,17
+3317810.63139904,-227997.462708292,Rwanda,South,Kivumu (muhanga) Health Centre,Health Centre,Public,-2.0477,29.8044,GPS,18
+3395723.14300526,-259891.579688375,Rwanda,East,Gahara Health Centre,Health Centre,Public,-2.334,30.5043,GPS,19
+3319391.36816831,-241843.864895883,Rwanda,South,Kizibere Health Centre,Health Centre,Public,-2.172,29.8186,GPS,20
+3375440.73178271,-219420.588296648,Rwanda,East,Gahengeri Health Centre,Health Centre,Public,-1.9707,30.3220999999999,GPS,21
+3298964.24160774,-280938.743225822,Rwanda,South,Maraba (huye) Health Centre,Health Centre,Public,-2.5229,29.6351,GPS,22
+3393374.30174952,-204941.042928295,Rwanda,East,Gahini District Hospital,District Hospital,Public,-1.8407,30.4832,GPS,23
+3300133.09626107,-304841.968600735,Rwanda,South,Maraba (nyaruguru) Health Centre,Health Centre,Public,-2.7374,29.6456,GPS,24
+3393374.30174952,-204941.042928295,Rwanda,East,Gahini Health Centre,Health Centre,Public,-1.8407,30.4832,GPS,25
+3310808.63542813,-227195.452029948,Rwanda,South,Mata Health Centre,Health Centre,Public,-2.0405,29.7414999999999,Geonames,26
+3385938.15976452,-200586.251136952,Rwanda,East,Gakenke Health Centre,Health Centre,Public,-1.8016,30.4163999999999,GPS,27
+3308459.79417241,-289251.475266483,Rwanda,South,Matyazo Health Centre,Health Centre,Public,-2.5975,29.7204,GPS,28
+3342412.23886436,-243325.485113868,Rwanda,East,Gakurazo Health Centre,Health Centre,Public,-2.1853,30.0254,GPS,29
+3311298.44118763,-284069.88983633,Rwanda,South,Mbazi Health Centre,Health Centre,Public,-2.551,29.7458999999999,GPS,30
+3372657.74451289,-201443.836949713,Rwanda,East,Gasange Health Centre,Health Centre,Public,-1.8093,30.2971,GPS,31
+3281776.51222925,-278052.799706512,Rwanda,South,Mbuga Health Centre,Health Centre,Public,-2.497,29.4806999999999,GPS,32
+3400888.36737805,-258086.716998691,Rwanda,East,Gashongora Health Centre,Health Centre,Public,-2.3178,30.5506999999999,GPS,33
+3322653.02924854,-237298.825265855,Rwanda,South,Mbuye Health Centre,Health Centre,Public,-2.1312,29.8478999999999,GPS,34
+3366857.99904256,-245575.790574669,Rwanda,East,Gashora Health Centre,Health Centre,Public,-2.2055,30.245,GPS,35
+3299788.0058396,-255613.420163742,Rwanda,South,Mucubira Health Centre,Health Centre,Public,-2.2956,29.6424999999999,GPS,36
+3396602.56698252,-142901.652521714,Rwanda,East,Gatebe Health Post,Health Post,Public,-1.2836,30.5122,Geonames,37
+3284871.19407331,-252137.500271206,Rwanda,South,Mugano Health Centre,Health Centre,Public,-2.2644,29.5085,GPS,38
+3401133.27025781,-231116.42749542,Rwanda,East,Gatseta Health Post,Health Post,Public,-2.0757,30.5529,Geonames,39
+3283279.32535496,-299347.760547316,Rwanda,South,Muganza Health Centre,Health Centre,Public,-2.6881,29.4941999999999,GPS,40
+3366201.21404688,-176196.63247486,Rwanda,East,Gatsibo Health Centre,Health Centre,Public,-1.5826,30.2391,GPS,41
+3333629.13104077,-234714.444828823,Rwanda,South,Mugina Health Centre,Health Centre,Public,-2.108,29.9465,GPS,42
+3340430.75192824,-252828.221950639,Rwanda,East,Gihinga Health Centre,Health Centre,Public,-2.2706,30.0076,GPS,43
+3324011.12703622,-298333.641054372,Rwanda,South,Mugombwa Health Centre,Health Centre,Public,-2.679,29.8600999999999,GPS,44
+3364987.83159723,-188936.801715522,Rwanda,North,Muko Health Centre,Health Centre,Public,-1.697,30.2282,GPS,45
+3375485.25957904,-182878.448557511,Rwanda,East,Gitoki Health Centre,Health Centre,Public,-1.6426,30.3225,GPS,46
+3410784.67010959,-237766.691392264,Rwanda,East,Gituku Health Centre,Health Centre,Public,-2.1354,30.6396,GPS,47
+3372078.88316075,-180272.516821432,Rwanda,East,Gituza Health Centre,Health Centre,Public,-1.6192,30.2918999999999,GPS,48
+3373704.14772635,-187366.513892119,Rwanda,East,Humure Health Centre,Health Centre,Public,-1.6829,30.3065,GPS,49
+3356683.39758405,-167989.398860046,Rwanda,East,Hunga Health Post,Health Post,Public,-1.5089,30.1536,Geonames,50
+3382019.7136886,-253875.450797422,Rwanda,East,Jarama Health Centre,Health Centre,Public,-2.28,30.3812,GPS,51
+3365499.90125488,-235538.768867826,Rwanda,East,Juru Health Centre,Health Centre,Public,-2.1154,30.2328,GPS,52
+3401667.60381362,-223831.501765919,Rwanda,East,Kabarondo (Kayonza) Health Centre,Health Centre,Public,-2.0103,30.5577,GPS,53
+3382854.60986955,-180829.337299768,Rwanda,East,Kabarore Health Centre,Health Centre,Public,-1.6242,30.3887,GPS,54
+3361670.51077158,-150863.107289193,Rwanda,East,Kabuga (Karama Nyagatare) Health Centre,Health Centre,Public,-1.3551,30.1983999999999,GPS,55
+3426191.28763536,-232442.004215048,Rwanda,East,Kabuye (kirehe) Health Centre,Health Centre,Public,-2.0876,30.7779999999999,GPS,56
+3369741.17385411,-186999.001363764,Rwanda,East,Kageyo (Gatsibo) Health Centre,Health Centre,Public,-1.6796,30.2709,GPS,57
+3412376.53882793,-204796.252930736,Rwanda,East,Kageyo I (Kayonza Gahini) Health Centre,Health Centre,Public,-1.8394,30.6539,GPS,58
+3389611.7029607,-119875.884654833,Rwanda,East,Kagitumba Health Centre,Health Centre,Public,-1.0768,30.4494,GPS,59
+3354078.52149948,-264114.148596527,Rwanda,East,Kamabuye Health Centre,Health Centre,Public,-2.3719,30.1301999999999,GPS,60
+3406565.66140852,-228431.886662821,Rwanda,East,Karama (kayonza) Health Centre,Health Centre,Public,-2.0516,30.6017,GPS,61
+3382832.34597139,-154559.973825725,Rwanda,East,Karangazi Health Centre,Health Centre,Public,-1.3883,30.3885,GPS,62
+3374049.2381478,-231795.923555367,Rwanda,East,Karenge Health Centre,Health Centre,Public,-2.0818,30.3096,GPS,63
+3370409.09079886,-164125.303216996,Rwanda,East,Katabagemu Health Centre,Health Centre,Public,-1.4742,30.2769,GPS,64
+3375106.77331033,-174114.172988066,Rwanda,East,Kibondo Health Centre,Health Centre,Public,-1.5639,30.3190999999999,GPS,65
+3400109.13094251,-240796.712613913,Rwanda,East,Kibungo Health Centre,Health Centre,Public,-2.1626,30.5437,GPS,66
+3399630.4571321,-241164.329163963,Rwanda,East,Kibungo Referral Hospital,Referral Hospital,Public,-2.1659,30.5394,GPS,67
+3416317.248802,-258075.575935269,Rwanda,East,Kigarama Health Centre,Health Centre,Public,-2.3177,30.6892999999999,Geonames,68
+3412343.14298069,-252471.720069121,Rwanda,East,Kirehe District Hospital,District Hospital,Public,-2.2674,30.6536,GPS,69
+3412343.14298069,-252382.594721966,Rwanda,East,Kirehe Health Centre,Health Centre,Public,-2.2666,30.6536,GPS,70
+3391593.18989681,-231339.212799569,Rwanda,East,Kirwa Health Centre,Health Centre,Public,-2.0777,30.4671999999999,GPS,71
+3382420.46385545,-196643.630298101,Rwanda,East,Kiziguro (gatsibo) Health Centre,Health Centre,Public,-1.7662,30.3847999999999,GPS,72
+3382420.46385545,-196688.179263697,Rwanda,East,Kiziguro District Hospital,District Hospital,Public,-1.7666,30.3847999999999,GPS,73
+3412721.62924939,-252237.766137882,Rwanda,East,Mahama Health Centre,Health Centre,Public,-2.2653,30.657,Geonames,74
+3347399.3520519,-250288.163205367,Rwanda,East,Mareba Health Centre,Health Centre,Public,-2.2478,30.0702,GPS,75
+3387017.95882522,-125376.084056776,Rwanda,East,Matimba Health Centre,Health Centre,Public,-1.1262,30.4261,GPS,76
+3355681.52216691,-245709.473045892,Rwanda,East,Mayange (Bugesera) Health Centre,Health Centre,Public,-2.2067,30.1446,GPS,77
+3363919.16448561,-172399.220294858,Rwanda,East,Mayange (Gatsibo) Health Post,Health Post,Public,-1.5485,30.2185999999999,Geonames,78
+3388175.68152946,-194070.943734024,Rwanda,East,Mbogo Health Post,Health Post,Public,-1.7431,30.4364999999999,Geonames,79
+3367648.36742718,-161185.512941941,Rwanda,East,Mimuri Health Centre,Health Centre,Public,-1.4478,30.2520999999999,GPS,80
+3357907.91198278,-160539.654535646,Rwanda,East,Muhambo Health Centre,Health Centre,Public,-1.442,30.1646,GPS,81
+3372090.01510984,-195808.338966468,Rwanda,East,Muhura Health Centre,Health Centre,Public,-1.7587,30.292,GPS,82
+3400298.37407686,-233611.639064646,Rwanda,East,Muhurire Health Post,Health Post,Public,-2.0981,30.5454,Geonames,83
+3395912.3861396,-212392.303168369,Rwanda,East,Mukarange Health Centre,Health Centre,Public,-1.9076,30.506,GPS,84
+3416640.07532531,-234157.471346081,Rwanda,East,Mulindi (kirehe) Health Centre,Health Centre,Public,-2.103,30.6922,GPS,85
+3391470.73845695,-225747.386280071,Rwanda,East,Munyaga Health Centre,Health Centre,Public,-2.0275,30.4661,GPS,86
+3390313.0157527,-208816.999265412,Rwanda,East,Murambi (rwamagana) Health Centre,Health Centre,Public,-1.8755,30.4557,GPS,87
+3370776.44511848,-223564.170651943,Rwanda,East,Murehe Health Post,Health Post,Public,-2.0079,30.2802,Geonames,88
+3409549.02376177,-259557.344292014,Rwanda,East,Musaza Health Centre,Health Centre,Public,-2.331,30.6284999999999,GPS,89
+3417307.99227007,-162343.608019688,Rwanda,East,Musenyi (Nyagatare) Fosacom Community-owned health facility,Health Post,CBO,-1.4582,30.6982,Geonames,90
+3376553.92669065,-214998.641450397,Rwanda,East,Musha (rwamagana) Health Centre,Health Centre,Public,-1.931,30.3321,GPS,91
+3414614.06059286,-243927.048943858,Rwanda,East,Mushikiri Health Centre,Health Centre,Public,-2.1907,30.6739999999999,GPS,92
+3394008.82284704,-253106.739594831,Rwanda,East,Mutenderi Health Centre,Health Centre,Public,-2.2731,30.4889,GPS,93
+3368227.22877932,-219810.437503065,Rwanda,East,Muyumbu Health Centre,Health Centre,Public,-1.9742,30.2573,GPS,94
+3357028.48800551,-232040.988352959,Rwanda,East,Mwogo Health Centre,Health Centre,Public,-2.084,30.1567,GPS,95
+3434395.53410684,-237209.708053225,Rwanda,East,Nasho Health Centre,Health Centre,Public,-2.1304,30.8517,GPS,96
+3391860.35667473,-157288.116389359,Rwanda,East,Ndama (Nyagatare) Health Centre,Health Centre,Public,-1.4128,30.4696,GPS,97
+3417764.40218232,-224254.776833759,Rwanda,East,Ndego Health Centre,Health Centre,Public,-2.0141,30.7023,GPS,98
+3366624.22811188,-172120.820062505,Rwanda,East,Ngarama District Hospital,District Hospital,Public,-1.546,30.2428999999999,GPS,99
+3368505.52750629,-172120.820062505,Rwanda,East,Ngarama Health Centre,Health Centre,Public,-1.546,30.2597999999999,GPS,100
+3351006.10355359,-259891.579688375,Rwanda,East,Ngeruka Health Centre,Health Centre,Public,-2.334,30.1025999999999,GPS,101
+3346865.01849609,-234781.281766893,Rwanda,East,Ntarama Health Centre,Health Centre,Public,-2.1086,30.0654,GPS,102
+3416473.09608912,-238758.126222665,Rwanda,East,Ntaruka (nasho Kirehe) Health Centre,Health Centre,Public,-2.1443,30.6907,GPS,103
+3382988.1932585,-126556.300795253,Rwanda,East,Ntoma Health Centre,Health Centre,Public,-1.1368,30.3899,GPS,104
+3382631.97088797,-203593.386253753,Rwanda,East,Nyabisindu Health Post,Health Post,Public,-1.8286,30.3867,Geonames,105
+3428094.85092794,-246455.868827997,Rwanda,East,Nyabitare (kirehe) Health Centre,Health Centre,Public,-2.2134,30.7951,GPS,106
+3364130.67151812,-179203.425349806,Rwanda,East,Nyagahanga Health Centre,Health Centre,Public,-1.6096,30.2205,GPS,107
+3362160.31653108,-165439.311621081,Rwanda,East,Nyagahita Health Centre,Health Centre,Public,-1.486,30.2028,GPS,108
+3371555.68155402,-209529.827171472,Rwanda,East,Nyagasambu Health Centre,Health Centre,Public,-1.8819,30.2871999999999,GPS,109
+3391303.75922076,-240941.531159328,Rwanda,East,Nyagasozi Health Post,Health Post,Public,-2.1639,30.4646,Geonames,110
+3375897.14169497,-144516.194881593,Rwanda,East,Nyagatare District Hospital,District Hospital,Public,-1.2981,30.3262,GPS,111
+3375741.29440786,-144304.63363367,Rwanda,East,Nyagatare Health Centre,Health Centre,Public,-1.2962,30.3248,GPS,112
+3359533.17654836,-170929.270765952,Rwanda,East,Nyagihanga Health Centre,Health Centre,Public,-1.5353,30.1792,GPS,113
+3404250.21600002,-204762.839869361,Rwanda,East,Nyakabungo Health Centre,Health Centre,Public,-1.8391,30.5809,GPS,114
+3367871.00640878,-226705.336161665,Rwanda,East,Nyakaliro Health Centre,Health Centre,Public,-2.0361,30.2541,GPS,115
+3377789.57303846,-160138.777732365,Rwanda,East,Nyakigando (Nyagatare) Health Centre,Health Centre,Public,-1.4384,30.3432,GPS,116
+3348479.15111258,-238100.882265354,Rwanda,East,Nyamata District Hospital,District Hospital,Public,-2.1384,30.0798999999999,GPS,117
+3349737.06135855,-239047.759957009,Rwanda,East,Nyamata Health Centre,Health Centre,Public,-2.1469,30.0912,GPS,118
+3397381.80341807,-217293.139883637,Rwanda,East,Nyamirama Health Centre,Health Centre,Public,-1.9516,30.5192,GPS,119
+3381095.76191502,-235015.211253126,Rwanda,East,Nyange Health Centre,Health Centre,Public,-2.1107,30.3729,GPS,120
+3423998.29366674,-242022.104230314,Rwanda,East,Nyarubuye (kirehe) Health Centre,Health Centre,Public,-2.1736,30.7582999999999,GPS,121
+3341855.64141038,-256059.056384983,Rwanda,East,Nyarugenge Health Centre,Health Centre,Public,-2.2996,30.0203999999999,Geonames,122
+3357963.57172817,-156430.697078401,Rwanda,East,Nyarurema Health Centre,Health Centre,Public,-1.4051,30.1650999999999,GPS,123
+3372791.32790184,-135018.361460649,Rwanda,East,Nyendo (Nyagatare) Health Post,Health Post,Public,-1.2128,30.2983,Geonames,124
+3369106.65275658,-260493.205199948,Rwanda,East,Nzangwa Health Centre,Health Centre,Public,-2.3394,30.2652,GPS,125
+3377110.52414462,-225602.580346035,Rwanda,East,Nzige Health Centre,Health Centre,Public,-2.0262,30.3371,GPS,126
+3401478.36067927,-231706.80916834,Rwanda,East,Remera Health Centre,Health Centre,Public,-2.081,30.556,GPS,127
+3365177.07473158,-240273.138907484,Rwanda,East,Rilima Health Centre,Health Centre,Public,-2.1579,30.2299,GPS,128
+3376487.13499617,-242924.4437628,Rwanda,East,Rubona (ngoma) Health Post,Health Post,Public,-2.1817,30.3314999999999,Geonames,129
+3383745.16579589,-226983.810922487,Rwanda,East,Rubona (rwamagana) Health Centre,Health Centre,Public,-2.0386,30.3966999999999,GPS,130
+3385292.50671791,-189315.454389643,Rwanda,East,Rugarama (gatsibo) Health Centre,Health Centre,Public,-1.7004,30.4105999999999,GPS,131
+3345662.76799552,-257239.998419197,Rwanda,East,Ruhuha Health Centre,Health Centre,Public,-2.3102,30.0546,GPS,132
+3385504.01375043,-211601.498155935,Rwanda,East,Ruhunda Health Centre,Health Centre,Public,-1.9005,30.4125,GPS,133
+3395578.42766722,-188925.66488225,Rwanda,East,Rukara Health Centre,Health Centre,Public,-1.6969,30.503,GPS,134
+3405051.71633373,-244929.660149445,Rwanda,East,Rukira Health Centre,Health Centre,Public,-2.1997,30.5881,GPS,135
+3382487.25554994,-246801.217271065,Rwanda,East,Rukoma Sake Health Centre,Health Centre,Public,-2.2165,30.3854,GPS,136
+3367514.78403824,-153513.265435044,Rwanda,East,Rukomo Health Centre,Health Centre,Public,-1.3789,30.2509,GPS,137
+3375930.5375422,-242178.063802906,Rwanda,East,Rukumberi Health Centre,Health Centre,Public,-2.175,30.3264999999999,GPS,138
+3395700.8791071,-220623.554205438,Rwanda,East,Ruramira Health Centre,Health Centre,Public,-1.9815,30.5041,GPS,139
+3370431.35469702,-148324.324754481,Rwanda,East,Rurenge Health Centre,Health Centre,Public,-1.3323,30.2771,GPS,140
+3333551.2073972,-245119.042944546,Rwanda,South,Mukoma (ruhango) Health Centre,Health Centre,Public,-2.2014,29.9457999999999,GPS,141
+3351651.7566002,-174080.764698929,Rwanda,North,Mukono Health Centre,Health Centre,Public,-1.5636,30.1084,GPS,142
+3423742.25883792,-254254.237382554,Rwanda,East,Rusumo Health Centre,Health Centre,Public,-2.2834,30.756,GPS,143
+3311688.05940541,-294667.271733516,Rwanda,South,Mukura (Huye) Health Centre,Health Centre,Public,-2.6461,29.7494,Geonames,144
+3344349.19800416,-164548.457702818,Rwanda,North,Mulindi (gicumbi) Health Centre,Health Centre,Public,-1.478,30.0428,GPS,145
+3401411.56898478,-214374.899124129,Rwanda,East,Rutare (kayonza) Health Centre,Health Centre,Public,-1.9254,30.5553999999999,GPS,146
+3296136.72654159,-246344.466258531,Rwanda,South,Munanira Health Centre,Health Centre,Public,-2.2124,29.6097,GPS,147
+3354657.38285162,-183101.179175324,Rwanda,North,Munyinya Health Centre,Health Centre,Public,-1.6446,30.1354,GPS,148
+3287876.82032472,-302200.708776075,Rwanda,South,Munini (nyaruguru) Health Centre,Health Centre,Public,-2.7137,29.5354999999999,GPS,149
+3387741.53551538,-217192.894221377,Rwanda,East,Rwamagana Health Centre,Health Centre,Public,-1.9507,30.4326,GPS,150
+3344482.78139311,-199595.020102718,Rwanda,North,Murambi Health Centre,Health Centre,Public,-1.7927,30.044,GPS,151
+3287876.82032472,-302167.275440263,Rwanda,South,Munini District Hospital,District Hospital,Public,-2.7134,29.5354999999999,GPS,152
+3387797.19526077,-217148.340610923,Rwanda,East,Rwamagana Provincial Hospital,Provincial Hospital,Public,-1.9503,30.4331,GPS,153
+3309450.53764046,-172232.180116074,Rwanda,North,Murandi Health Centre,Health Centre,Public,-1.547,29.7292999999999,GPS,154
+3296248.04603239,-246199.643030519,Rwanda,South,Muremera (ruhango) Health Post,Health Post,Public,-2.2111,29.6107,Geonames,155
+3402547.02779088,-262554.347232601,Rwanda,East,Rwantonde Health Centre,Health Centre,Public,-2.3579,30.5656,Geonames,156
+3297517.08822743,-166508.340583866,Rwanda,North,Musanze Health Centre,Health Centre,Public,-1.4956,29.6221,Geonames,157
+3297283.31729676,-239905.524293626,Rwanda,South,Muremure Health Centre,Health Centre,Public,-2.1546,29.62,GPS,158
+3395522.76792183,-178936.153269562,Rwanda,East,Rwembogo Health Centre,Health Centre,Public,-1.6072,30.5025,GPS,159
+3350594.22143766,-189827.750246019,Rwanda,North,Musenyi (gicumbi) Health Centre,Health Centre,Public,-1.705,30.0989,GPS,160
+3322230.01518354,-228030.879898002,Rwanda,South,Musambira Health Centre,Health Centre,Public,-2.048,29.8441,GPS,161
+3373325.66145765,-135909.118253503,Rwanda,East,Rwempasha Health Centre,Health Centre,Public,-1.2208,30.3031,GPS,162
+3329899.92809919,-183591.18732065,Rwanda,North,Mushongi Health Centre,Health Centre,Public,-1.649,29.913,Geonames,163
+3277935.98979689,-270030.396624602,Rwanda,South,Musebeya Health Centre,Health Centre,Public,-2.425,29.4462,GPS,164
+3378045.60786728,-202201.188486405,Rwanda,East,Rwimitereri Health Centre,Health Centre,Public,-1.8161,30.3455,GPS,165
+3342768.46123489,-189092.717441816,Rwanda,North,Muyanza Health Centre,Health Centre,Public,-1.6984,30.0286,GPS,166
+3323922.07144359,-282320.450782025,Rwanda,South,Musha (gisagara) Health Centre,Health Centre,Public,-2.5353,29.8593,GPS,167
+3407946.02309436,-218674.307814542,Rwanda,East,Rwinkwavu District Hospital,District Hospital,Public,-1.964,30.6141,GPS,168
+3326003.74592143,-191520.562670041,Rwanda,North,Muyongwe Health Centre,Health Centre,Public,-1.7202,29.878,Google Earth,169
+3304463.42445293,-222996.093337663,Rwanda,South,Mushishiro Health Centre,Health Centre,Public,-2.0028,29.6845,GPS,170
+3408035.07868698,-218674.307814542,Rwanda,East,Rwinkwavu Health Centre,Health Centre,Public,-1.964,30.6148999999999,GPS,171
+3393429.9614949,-191320.097339193,Rwanda,East,Ryamanyoni Health Centre,Health Centre,Public,-1.7184,30.4836999999999,GPS,172
+3384045.72842104,-243436.88565974,Rwanda,East,Sangaza Health Centre,Health Centre,Public,-2.1863,30.3994,GPS,173
+3363039.74050834,-143302.50355959,Rwanda,East,Tabagwe Health Centre,Health Centre,Public,-1.2872,30.2106999999999,GPS,174
+3387875.11890433,-240028.062409676,Rwanda,East,Zaza Health Centre,Health Centre,Public,-2.1557,30.4338,GPS,175
+3351473.64541493,-218061.691745376,Rwanda,Kigali City,Avega Kigali Health Centre,Health Centre,Public,-1.9585,30.1068,GPS,176
+3352330.80549404,-220100.040302006,Rwanda,Kigali City,Bethsaida Health Centre,Health Centre,Public,-1.9768,30.1145,GPS,177
+3346263.89324579,-218997.324371713,Rwanda,Kigali City,Biryogo Health Centre,Health Centre,Public,-1.9669,30.0599999999999,GPS,178
+3363930.29643469,-210109.001771127,Rwanda,Kigali City,Bumbogo (ex-Gikomero I) Health Centre,Health Centre,Public,-1.8871,30.2186999999999,GPS,179
+3356238.11962088,-220467.613738568,Rwanda,Kigali City,Busanza Health Centre,Health Centre,Public,-1.9801,30.1496,GPS,180
+3342222.99573001,-225524.607968167,Rwanda,Kigali City,Butamwa Health Centre,Health Centre,Public,-2.0255,30.0237,GPS,181
+3358397.71774227,-217638.430908944,Rwanda,Kigali City,Caraes Ndera National Referral Hospital,National Referral Hospital,Public,-1.9547,30.169,GPS,182
+3346308.42104212,-217838.922764556,Rwanda,Kigali City,CHK/CHUK National Referral Hospital,National Referral Hospital,Public,-1.9565,30.0604,GPS,183
+3344961.45520352,-216602.559741779,Rwanda,Kigali City,Cor Unum Health Centre,Health Centre,Public,-1.9454,30.0483,GPS,184
+3351195.34668793,-225691.691676295,Rwanda,Kigali City,Gahanga Health Centre,Health Centre,Public,-2.027,30.1042999999999,GPS,185
+3349803.85305302,-220467.613738568,Rwanda,Kigali City,Gatenga Health Centre,Health Centre,Public,-1.9801,30.0917999999999,GPS,186
+3344727.68427285,-212191.81708221,Rwanda,Kigali City,Gihogwe Health Centre,Health Centre,Public,-1.9058,30.0461999999999,GPS,187
+3356705.66148221,-207068.354333219,Rwanda,Kigali City,Gikomero II Health Centre,Health Centre,Public,-1.8598,30.1538,GPS,188
+3348312.17187639,-219342.618553742,Rwanda,Kigali City,Gikondo Health Centre,Health Centre,Public,-1.97,30.0783999999999,GPS,189
+3346252.76129671,-217972.584121155,Rwanda,Kigali City,Gitega (Nyarugenge) Health Centre,Health Centre,Public,-1.9577,30.0598999999999,GPS,190
+3341710.92607236,-210432.003742116,Rwanda,Kigali City,Jali Health Centre,Health Centre,Public,-1.89,30.0191,GPS,191
+3364553.68558313,-222116.133928418,Rwanda,Kigali City,Kabuga (Kicukiro) Health Centre,Health Centre,Public,-1.9949,30.2242999999999,GPS,192
+3345362.20537038,-218562.922924864,Rwanda,Kigali City,Kabusunzu Health Centre,Health Centre,Public,-1.963,30.0519,GPS,193
+3346653.51146358,-210409.727726807,Rwanda,Kigali City,Kabuye Health Centre,Health Centre,Public,-1.8898,30.0635,GPS,194
+3347955.94950585,-215232.545352334,Rwanda,Kigali City,Kacyiru District Hospital,District Hospital,Public,-1.9331,30.0751999999999,GPS,195
+3349191.59585367,-212982.624529893,Rwanda,Kigali City,Kagugu Health Centre,Health Centre,Public,-1.9129,30.0863,GPS,196
+3355492.27903257,-223374.81135043,Rwanda,Kigali City,Kairos Health Centre,Health Centre,Public,-2.0062,30.1429,Combination,197
+3340063.39760862,-213584.085906074,Rwanda,Kigali City,Kanyinya Health Centre,Health Centre,Public,-1.9183,30.0043,Geonames,198
+3360791.08679433,-205085.83303143,Rwanda,Kigali City,Kayanga Health Centre,Health Centre,Public,-1.842,30.1905,GPS,199
+3352052.50676704,-214976.364903387,Rwanda,Kigali City,Kibagabaga District Hospital,District Hospital,Public,-1.9308,30.1119999999999,GPS,200
+3352330.80549404,-220088.901724432,Rwanda,Kigali City,Kicukiro Health Centre,Health Centre,Public,-1.9767,30.1145,GPS,201
+3353622.11158724,-217270.863065166,Rwanda,Kigali City,Kimironko Health Centre,Health Centre,Public,-1.9514,30.1261,GPS,202
+3350171.20737264,-216435.484282648,Rwanda,Kigali City,King Faisal National Referral Hospital,National Referral Hospital,Public,-1.9439,30.0950999999999,GPS,203
+3352052.50676704,-213606.362289768,Rwanda,Kigali City,Kinyinya Health Centre,Health Centre,Public,-1.9185,30.1119999999999,GPS,204
+3360880.14238695,-222194.104844424,Rwanda,Kigali City,Masaka District Hospital,District Hospital,Public,-1.9956,30.1912999999999,GPS,205
+3360880.14238695,-222194.104844424,Rwanda,Kigali City,Masaka Health Centre,Health Centre,Public,-1.9956,30.1912999999999,GPS,206
+3346096.9140096,-215633.524143307,Rwanda,Kigali City,Muhima District Hospital,District Hospital,Public,-1.9367,30.0584999999999,GPS,207
+3346108.04595868,-215633.524143307,Rwanda,Kigali City,Muhima Health Centre,Health Centre,Public,-1.9367,30.0585999999999,GPS,208
+3218780.81238935,-276515.138783605,Rwanda,West,Gihundwe Health Centre,Health Centre,Public,-2.4832,28.9148,GPS,209
+3341399.23149814,-220690.385874449,Rwanda,Kigali City,Mwendo (nyarugenge) Health Centre,Health Centre,Public,-1.9821,30.0163,GPS,210
+3352586.84032286,-206923.562776977,Rwanda,Kigali City,Nduba Health Centre,Health Centre,Public,-1.8585,30.1168,GPS,211
+3348957.82492299,-207981.657380352,Rwanda,Kigali City,Nyacyonga Health Centre,Health Centre,Public,-1.868,30.0841999999999,GPS,212
+3358408.84969135,-219955.238845874,Rwanda,Kigali City,Nyarugunga Health Centre,Health Centre,Public,-1.9755,30.1691,GPS,213
+3345250.88587957,-216123.610489385,Rwanda,Kigali City,Nyarurenzi Health Centre,Health Centre,Public,-1.9411,30.0508999999999,Geonames,214
+3358932.05129808,-216669.389967025,Rwanda,Kigali City,Rubungo Health Centre,Health Centre,Public,-1.946,30.1738,GPS,215
+3344415.98969862,-221793.111915444,Rwanda,Kigali City,Rugarama (Nyarugenge) Health Centre,Health Centre,Public,-1.992,30.0433999999999,GPS,216
+3286730.22956956,-162076.35483588,Rwanda,North,Bisate Health Centre,Health Centre,Public,-1.4558,29.5252,GPS,217
+3342189.59988276,-202969.680458941,Rwanda,North,Bubangu Health Centre,Health Centre,Public,-1.823,30.0233999999999,Geonames,218
+3336579.09754678,-167343.522713499,Rwanda,North,Bungwe (Burera) Health Centre,Health Centre,Public,-1.5031,29.9729999999999,GPS,219
+3343447.51012873,-192032.863819739,Rwanda,North,Burega Health Centre,Health Centre,Public,-1.7248,30.0347,Geonames,220
+3306322.45994918,-180873.882997502,Rwanda,North,Busengo Health Centre,Health Centre,Public,-1.6246,29.7012,GPS,221
+3348623.86645061,-170116.348035396,Rwanda,North,Bushara Health Centre,Health Centre,Public,-1.528,30.0811999999999,GPS,222
+3310207.51017786,-177766.841605709,Rwanda,North,Bushoka Health Centre,Health Centre,Public,-1.5967,29.7361,GPS,223
+3288400.02193145,-173056.246146141,Rwanda,North,Busogo Health Centre,Health Centre,Public,-1.5544,29.5401999999999,GPS,224
+3321395.11900259,-156853.838721813,Rwanda,North,Butaro District Hospital,District Hospital,Public,-1.4089,29.8366,GPS,225
+3321372.85510443,-156853.838721813,Rwanda,North,Butaro Health Centre,Health Centre,Public,-1.4089,29.8364,GPS,226
+3340998.48133127,-188613.833784296,Rwanda,North,Buyoga Health Centre,Health Centre,Public,-1.6941,30.0126999999999,GPS,227
+3356761.3212276,-175862.54680637,Rwanda,North,Bwisige Health Centre,Health Centre,Public,-1.5796,30.1542999999999,GPS,228
+3345718.42774091,-176942.758880829,Rwanda,North,Byumba District Hospital,District Hospital,Public,-1.5893,30.0550999999999,GPS,229
+3345796.35138447,-176875.941492206,Rwanda,North,Byumba Health Centre,Health Centre,Public,-1.5887,30.0558,GPS,230
+3319836.64613148,-196476.571762507,Rwanda,North,Coko (Ruli) Health Centre,Health Centre,Public,-1.7647,29.8226,GPS,231
+3304875.30656885,-176508.446201476,Rwanda,North,Cyabingo Health Centre,Health Centre,Public,-1.5854,29.6881999999999,GPS,232
+3309361.48204783,-153813.915293102,Rwanda,North,Cyanika (Burera) Health Centre,Health Centre,Public,-1.3816,29.7285,GPS,233
+3340786.97429877,-167443.74476155,Rwanda,North,Cyumba Health Centre,Health Centre,Public,-1.504,30.0108,Geonames,234
+3306211.14045837,-161452.765179238,Rwanda,North,Gahunga Health Centre,Health Centre,Public,-1.4502,29.7001999999999,GPS,235
+3306600.75867616,-168356.880884125,Rwanda,North,Gasakuza Health Post,Health Post,Public,-1.5122,29.7037,GPS,236
+3311799.37889619,-171486.068757801,Rwanda,North,Gashaki Health Centre,Health Centre,Public,-1.5403,29.7503999999999,GPS,237
+3300923.46464569,-161619.797971438,Rwanda,North,Gasiza (musanze) Health Centre,Health Centre,Public,-1.4517,29.6526999999999,GPS,238
+3290348.11302034,-170884.72698292,Rwanda,North,Gataraga (Musanze) Health Centre,Health Centre,Public,-1.5349,29.5577,GPS,239
+3331781.2274936,-168212.115171641,Rwanda,North,Gatebe Health Centre,Health Centre,Public,-1.5109,29.9299,Google Earth,240
+3302281.56243337,-184671.436380777,Rwanda,North,Gatonde Health Centre,Health Centre,Public,-1.6587,29.6648999999999,GPS,241
+3353432.86845289,-179125.470960592,Rwanda,North,Gisiza Health Centre,Health Centre,Public,-1.6089,30.1244,GPS,242
+3313591.62269798,-154816.083958223,Rwanda,North,Gitare Health Centre,Health Centre,Public,-1.3906,29.7665,GPS,243
+3364331.04660155,-199071.562963187,Rwanda,North,Giti Health Centre,Health Centre,Public,-1.788,30.2223,GPS,244
+3303383.62539223,-187299.693386197,Rwanda,North,Janja Health Centre,Health Centre,Public,-1.6823,29.6748,GPS,245
+3294444.67028153,-173156.470589756,Rwanda,North,Kabere Health Centre,Health Centre,Public,-1.5553,29.5945,GPS,246
+3353633.24353632,-201399.286947847,Rwanda,North,Kajevuba Health Centre,Health Centre,Public,-1.8089,30.1262,GPS,247
+3316675.17259295,-176931.622648044,Rwanda,North,Kamubuga Health Centre,Health Centre,Public,-1.5892,29.7942,GPS,248
+3321795.86916943,-181508.660149622,Rwanda,North,Karambo (gakenke) Health Centre,Health Centre,Public,-1.6303,29.8401999999999,GPS,249
+3303539.47267935,-165840.196935994,Rwanda,North,Karwasa Health Centre,Health Centre,Public,-1.4896,29.6762,GPS,250
+3319135.33333947,-175695.504153074,Rwanda,North,Kidomo Health Post,Health Post,Public,-1.5781,29.8162999999999,GPS,251
+3340664.52285889,-177388.2086348,Rwanda,North,Kigogo Health Centre,Health Centre,Public,-1.5933,30.0096999999999,GPS,252
+3294923.34409195,-168368.016711751,Rwanda,North,Kimonyi Health Centre,Health Centre,Public,-1.5123,29.5988,Google Earth,253
+3293097.70444294,-161319.139025193,Rwanda,North,Kinigi Health Centre,Health Centre,Public,-1.449,29.5824,GPS,254
+3338304.54965407,-184927.578686081,Rwanda,North,Kinihira (Rulindo) Health Centre,Health Centre,Public,-1.661,29.9884999999999,GPS,255
+3338315.68160316,-185027.80836495,Rwanda,North,Kinihira Provincial Hospital,Provincial Hospital,Public,-1.6619,29.9886,GPS,256
+3332092.92206782,-197356.414899959,Rwanda,North,Kinini Health Centre,Health Centre,Public,-1.7726,29.9327,GPS,257
+3309294.69035336,-160049.694084251,Rwanda,North,Kinoni Health Centre,Health Centre,Public,-1.4376,29.7279,GPS,258
+3318723.45122355,-152299.534283403,Rwanda,North,Kinyababa Health Centre,Health Centre,Public,-1.368,29.8126,GPS,259
+3321061.16053021,-166241.082905912,Rwanda,North,Kirambo (burera) Health Centre,Health Centre,Public,-1.4932,29.8336,GPS,260
+3342657.1417441,-180350.471605611,Rwanda,North,Kisaro Health Centre,Health Centre,Public,-1.6199,30.0276,GPS,261
+3331937.07478071,-166118.589901071,Rwanda,North,Kivuye Health Centre,Health Centre,Public,-1.4921,29.9313,GPS,262
+3346942.94213963,-195975.396963757,Rwanda,North,Kiyanza Health Centre,Health Centre,Public,-1.7602,30.0660999999999,GPS,263
+3339751.7030344,-169058.439028136,Rwanda,North,Manyagiro Health Centre,Health Centre,Public,-1.5185,30.0015,GPS,264
+3329488.04598326,-180417.290013488,Rwanda,North,Marembo Health Centre,Health Centre,Public,-1.6205,29.9093,GPS,265
+3317053.65886164,-166062.91128276,Rwanda,North,Mariba Health Post,Health Post,Public,-1.4916,29.7975999999999,GPS,266
+3346286.15714395,-202724.65371358,Rwanda,North,Masoro Health Centre,Health Centre,Public,-1.8208,30.0601999999999,GPS,267
+3311042.40635881,-191476.014802402,Rwanda,North,Mataba Health Centre,Health Centre,Public,-1.7198,29.7436,GPS,268
+3314014.63676298,-196042.220200299,Rwanda,North,Minazi Health Centre,Health Centre,Public,-1.7608,29.7702999999999,Google Earth,269
+3337258.14644062,-179916.152436421,Rwanda,North,Miyove Health Centre,Health Centre,Public,-1.616,29.9790999999999,GPS,270
+3302849.29183643,-154637.920361394,Rwanda,North,Mucaca Health Centre,Health Centre,Public,-1.389,29.67,GPS,271
+3300422.52693712,-188959.075383795,Rwanda,North,Mugunga Health Post,Health Post,Public,-1.6972,29.6481999999999,GPS,272
+3327940.70506122,-200408.05194296,Rwanda,North,Muhondo (gakenke) Health Centre,Health Centre,Public,-1.8,29.8953999999999,GPS,273
+3349124.80415918,-181252.521784571,Rwanda,North,Muhondo (kageyo) Health Centre,Health Centre,Public,-1.628,30.0856999999999,GPS,274
+3299131.22084393,-166998.313752922,Rwanda,North,Muhoza (Ruhengeri) Health Centre,Health Centre,Public,-1.5,29.6366,GPS,275
+3348045.0050985,-170071.804404095,Rwanda,North,Mukarange (Gicumbi) Health Centre,Health Centre,Public,-1.5276,30.076,Google Earth,276
+3277780.14250978,-261451.354317609,Rwanda,South,Mushubi Health Centre,Health Centre,Public,-2.348,29.4448,GPS,277
+3332671.78341993,-260392.934120632,Rwanda,South,Mututu Health Centre,Health Centre,Public,-2.3385,29.9378999999999,Geonames,278
+3322051.90399827,-172076.276055766,Rwanda,North,Ndongozi Health Centre,Health Centre,Public,-1.5456,29.8425,GPS,279
+3301869.68031745,-241364.84761961,Rwanda,South,Muyunzwe Health Centre,Health Centre,Public,-2.1677,29.6612,GPS,280
+3233051.97110903,-292516.529009096,Rwanda,West,Gikundamvura Health Centre,Health Centre,Public,-2.6268,29.0429999999999,Geonames,281
+3304930.96631426,-240919.25137503,Rwanda,South,Mwendo (Gitwe) Health Centre,Health Centre,Public,-2.1637,29.6887,GPS,282
+3315840.276412,-182332.759485572,Rwanda,North,Nemba District Hospital,District Hospital,Public,-1.6377,29.7867,GPS,283
+3238072.48014382,-273150.168615645,Rwanda,West,Gisakura Health Centre,Health Centre,Public,-2.453,29.0881,GPS,284
+3305443.03597191,-240908.111483983,Rwanda,South,Mwendo (Ruhango) Health Post,Health Post,Public,-2.1636,29.6933,Geonames,285
+3315818.01251384,-182366.168982204,Rwanda,North,Nemba Health Centre,Health Centre,Public,-1.638,29.7865,GPS,286
+3257464.33544001,-189504.78097676,Rwanda,West,Gisenyi District Hospital,District Hospital,Public,-1.7021,29.2623,GPS,287
+3299799.13778869,-259613.050141912,Rwanda,South,Mweya Health Centre,Health Centre,Public,-2.3315,29.6426,GPS,288
+3316207.63073161,-185261.677793328,Rwanda,North,Nganzo Health Centre,Health Centre,Public,-1.664,29.7899999999999,Other,289
+3257508.86323632,-190540.511735723,Rwanda,West,Gisenyi Health Centre,Health Centre,Public,-1.7114,29.2626999999999,GPS,290
+3295524.46934222,-265796.523480957,Rwanda,South,Ngara Health Centre,Health Centre,Public,-2.387,29.6041999999999,GPS,291
+3311521.08016922,-164325.744725397,Rwanda,North,Ntaruka (kinoni Burera) Health Centre,Health Centre,Public,-1.476,29.7479,GPS,292
+3268295.72189419,-248806.480618367,Rwanda,West,Gisovu Health Centre,Health Centre,Public,-2.2345,29.3596,GPS,293
+3249204.42922314,-255145.503473659,Rwanda,West,Hanika (Nyamasheke) Health Centre,Health Centre,Public,-2.2914,29.1880999999999,GPS,294
+3297249.92144952,-201733.412201424,Rwanda,West,Hindiro Health Centre,Health Centre,CBO,-1.8119,29.6197,GPS,295
+3229623.33079261,-300172.434719911,Rwanda,West,Islamic (Bugarama) Health Centre,Health Centre,Public,-2.6955,29.0122,GPS,296
+3244506.74671167,-214965.226630867,Rwanda,West,Iwawa Health Centre,Health Centre,Public,-1.9307,29.1459,Google Earth,297
+3280551.99783053,-181074.338746484,Rwanda,West,Jenda (Nyabihu) Health Post,Health Post,Public,-1.6264,29.4697,GPS,298
+3294478.06612876,-190317.773515072,Rwanda,West,Jomba Health Centre,Health Centre,Public,-1.7094,29.5947999999999,GPS,299
+3271000.78552047,-182845.038984076,Rwanda,West,Kabari (Rubavu) Health Centre,Health Centre,Public,-1.6423,29.3839,GPS,300
+3271958.13314128,-172521.716501094,Rwanda,West,Kabatwa Health Centre,Health Centre,Public,-1.5496,29.3924999999999,GPS,301
+3288077.19540815,-194527.565440172,Rwanda,West,Kabaya District Hospital,District Hospital,Public,-1.7472,29.5372999999999,GPS,302
+3288143.98710264,-194538.702567398,Rwanda,West,Kabaya Health Centre,Health Centre,Public,-1.7473,29.5379,GPS,303
+3282544.61671573,-216402.069208639,Rwanda,West,Kabona Health Centre,Health Centre,Public,-1.9436,29.4876,GPS,304
+3294099.57986008,-208315.793705625,Rwanda,West,Kageyo (ngororero) Health Centre,Health Centre,CBO,-1.871,29.5914,GPS,305
+3230569.54646435,-272425.930038231,Rwanda,West,Kamonyi (ruharambuga) Health Centre,Health Centre,Public,-2.4465,29.0207,GPS,306
+3255861.33477259,-257652.2161081,Rwanda,West,Karambi (nyamasheke) Health Centre,Health Centre,Public,-2.3139,29.2479,GPS,307
+3270277.20883032,-191119.632197286,Rwanda,West,Karambo (rubavu) Health Centre,Health Centre,Public,-1.7166,29.3774,GPS,308
+3281286.70646976,-176285.722068044,Rwanda,West,Kareba Health Centre,Health Centre,Public,-1.5834,29.4762999999999,GPS,309
+3252967.02801196,-251736.437427025,Rwanda,West,Karengera Health Centre,Health Centre,Public,-2.2608,29.2219,GPS,310
+3260636.94092762,-232375.168174295,Rwanda,West,Karora Health Centre,Health Centre,Public,-2.087,29.2908,GPS,311
+3278492.58725086,-207636.383777006,Rwanda,West,Karumbi Health Centre,Health Centre,Public,-1.8649,29.4512,GPS,312
+3266525.74199057,-210120.139761155,Rwanda,West,Kayove Health Centre,Health Centre,Public,-1.8872,29.3436999999999,GPS,313
+3257341.88400012,-244907.379834803,Rwanda,West,Kibingo (nyamasheke) Health Centre,Health Centre,Public,-2.1995,29.2611999999999,GPS,314
+3268028.55511628,-222283.214503362,Rwanda,West,Kibingo (rutsiro) Health Centre,Health Centre,Public,-1.9964,29.3571999999999,GPS,315
+3242981.6696878,-259022.569139199,Rwanda,West,Kibogora District Hospital,District Hospital,Public,-2.3262,29.1322,GPS,316
+3243549.39909085,-259523.920791575,Rwanda,West,Kibogora Health Centre,Health Centre,Public,-2.3307,29.1373,GPS,317
+3266703.85317585,-230258.706703507,Rwanda,West,Kibuye Health Centre,Health Centre,Public,-2.068,29.3453,GPS,318
+3266815.17266663,-230147.314698578,Rwanda,West,Kibuye Referral Hospital,Referral Hospital,Public,-2.067,29.3462999999999,GPS,319
+3259278.84313994,-194950.776691909,Rwanda,West,Kigufi Health Centre,Health Centre,Public,-1.751,29.2786,GPS,320
+3266826.30461571,-203972.065721172,Rwanda,West,Kinihira (rutsiro) Health Centre,Health Centre,Public,-1.832,29.3463999999999,GPS,321
+3289724.72387189,-178791.381023951,Rwanda,West,Kintobo Health Centre,Health Centre,Public,-1.6059,29.5520999999999,GPS,322
+3261037.69109447,-212414.57941311,Rwanda,West,Kinunu Health Centre,Health Centre,Public,-1.9078,29.2944,GPS,323
+3275230.92617062,-235126.606357616,Rwanda,West,Kirambo (gitesi) Health Centre,Health Centre,Public,-2.1117,29.4219,GPS,324
+3297873.31059796,-215433.034641428,Rwanda,West,Kirinda District Hospital,District Hospital,Public,-1.9349,29.6252999999999,GPS,325
+3292485.44724356,-243336.625165115,Rwanda,West,Kirinda Health Centre,Health Centre,Public,-2.1854,29.5768999999999,GPS,326
+3263965.39370233,-197813.043829835,Rwanda,West,Kivumu (rutsiro) Health Centre,Health Centre,Public,-1.7767,29.3206999999999,GPS,327
+3301891.9442156,-198915.639819185,Rwanda,West,Kiziguro (ngororero) Fosacom Community-owned health facility,Health Post,CBO,-1.7866,29.6614,Geonames,328
+3278281.08021835,-179570.924973912,Rwanda,West,Kora Health Centre,Health Centre,Public,-1.6129,29.4493,GPS,329
+3286040.04872663,-213238.802291678,Rwanda,West,Mabuye Fosacom Community-owned health facility,Health Post,CBO,-1.9152,29.5189999999999,GPS,330
+3259891.10033929,-247458.495338996,Rwanda,West,Mahembe Health Centre,Health Centre,Public,-2.2224,29.2840999999999,GPS,331
+3229077.86528772,-289173.47149941,Rwanda,West,Mashesha Health Centre,Health Centre,Public,-2.5968,29.0073,GPS,332
+3223111.1405812,-285919.638437816,Rwanda,West,Mibilizi District Hospital,District Hospital,Public,-2.5676,28.9537,GPS,333
+3223177.93227568,-285964.210989172,Rwanda,West,Mibilizi Health Centre,Health Centre,Public,-2.568,28.9543,GPS,334
+3218591.569255,-275133.486149349,Rwanda,West,Mont Cyangugu Health Centre,Health Centre,Public,-2.4708,28.9131,Google Earth,335
+3257820.55781054,-235806.118048671,Rwanda,West,Mpembe Health Centre,Health Centre,Public,-2.1178,29.2654999999999,GPS,336
+3263241.81701218,-237499.339163603,Rwanda,West,Mubuga Health Centre,Health Centre,Public,-2.133,29.3142,GPS,337
+3270210.41713583,-178613.199924997,Rwanda,West,Mudende Health Centre,Health Centre,Public,-1.6043,29.3767999999999,GPS,338
+3232172.54713178,-266164.197270231,Rwanda,West,Mugera Health Centre,Health Centre,Public,-2.3903,29.0351,GPS,339
+3260848.44796012,-242824.183575088,Rwanda,West,Mugonero District Hospital,District Hospital,Public,-2.1808,29.2927,GPS,340
+3260870.71185827,-242980.143893007,Rwanda,West,Mugonero Health Centre,Health Centre,Public,-2.1822,29.2928999999999,GPS,341
+3297873.31059796,-215433.034641428,Rwanda,West,Muhororo District Hospital,District Hospital,Public,-1.9349,29.6252999999999,GPS,342
+3298040.28983415,-215277.09850931,Rwanda,West,Muhororo Health Centre,Health Centre,Public,-1.9335,29.6267999999999,GPS,343
+3229545.40714906,-263144.841612187,Rwanda,West,Mukoma (nyamasheke) Health Centre,Health Centre,Public,-2.3632,29.0115,GPS,344
+3275453.5651522,-246411.307791194,Rwanda,West,Mukungu Health Centre,Health Centre,Public,-2.213,29.4239,GPS,345
+3282466.69307217,-223619.86460163,Rwanda,West,Mukura Health Centre,Health Centre,Public,-2.0084,29.4868999999999,GPS,346
+3293220.15588281,-235382.815370056,Rwanda,West,Munzanga Health Centre,Health Centre,Public,-2.114,29.5835,GPS,347
+3296448.42111581,-197133.669447607,Rwanda,West,Muramba Health Centre,Health Centre,Public,-1.7706,29.6125,GPS,348
+3256751.89069893,-186197.158000128,Rwanda,West,Murara Health Centre,Health Centre,Public,-1.6724,29.2559,GPS,349
+3270132.49349228,-212303.1982153,Rwanda,West,Murunda District Hospital,District Hospital,Public,-1.9068,29.3761,GPS,350
+3270199.28518676,-213238.802291678,Rwanda,West,Murunda Health Centre,Health Centre,Public,-1.9152,29.3767,GPS,351
+3276822.79488895,-242088.944029422,Rwanda,West,Musango Health Centre,Health Centre,Public,-2.1742,29.4361999999999,GPS,352
+3267082.33944455,-218451.538101818,Rwanda,West,Musasa Health Centre,Health Centre,Public,-1.962,29.3487,GPS,353
+3223044.34888672,-293731.193079194,Rwanda,West,Mushaka Health Centre,Health Centre,Public,-2.6377,28.9530999999999,GPS,354
+3272781.89737315,-224098.833272954,Rwanda,West,Mushubati Health Centre,Health Centre,Public,-2.0127,29.3998999999999,GPS,355
+3280529.73393238,-187166.052435998,Rwanda,West,Mutaho (nyabihu) Health Post,Health Post,Public,-1.6811,29.4695,GPS,356
+3230747.65764962,-259835.873739471,Rwanda,West,Muyange Health Centre,Health Centre,Public,-2.3335,29.0223,GPS,357
+3285082.70110582,-243280.924916294,Rwanda,West,Mwendo (karongi) Health Centre,Health Centre,Public,-2.1849,29.5104,GPS,358
+3231649.34552505,-280682.460210275,Rwanda,West,Mwezi Health Centre,Health Centre,Public,-2.5206,29.0304,GPS,359
+3285238.54839293,-184370.747967489,Rwanda,West,Mwiyanike Health Centre,Health Centre,Public,-1.656,29.5118,GPS,360
+3295980.87925448,-223274.562388141,Rwanda,West,Ndaro Fosacom Community-owned health facility,Health Post,CBO,-2.0053,29.6083,GPS,361
+3256941.13383328,-255981.06995614,Rwanda,West,Ngange Health Centre,Health Centre,Public,-2.2989,29.2576,GPS,362
+3220350.41720952,-270242.093387887,Rwanda,West,Nkanka Health Centre,Health Centre,Public,-2.4269,28.9288999999999,GPS,363
+3216543.2906244,-267846.594691993,Rwanda,West,Nkombo Health Centre,Health Centre,Public,-2.4054,28.8947,GPS,364
+3229011.07359324,-283122.738660755,Rwanda,West,Nkungu Health Centre,Health Centre,Public,-2.5425,29.0066999999999,GPS,365
+3296849.17128266,-211434.427090899,Rwanda,West,Ntaganzwa Health Centre,Health Centre,Public,-1.899,29.6160999999999,GPS,366
+3295257.30256433,-220066.624571299,Rwanda,West,Ntobwe Health Centre,Health Centre,Public,-1.9765,29.6018,GPS,367
+3267160.26308809,-196164.729523171,Rwanda,West,Nyabirasi Health Centre,Health Centre,Public,-1.7619,29.3493999999999,GPS,368
+3236046.46541138,-285083.905681193,Rwanda,West,Nyabitimbo Health Centre,Health Centre,Public,-2.5601,29.0699,GPS,369
+3231315.38705267,-285574.201637775,Rwanda,West,Nyakabuye Health Centre,Health Centre,Public,-2.5645,29.0274,Google Earth,370
+3218814.20823657,-282888.737567579,Rwanda,West,Nyakarenzo Health Centre,Health Centre,Public,-2.5404,28.9150999999999,GPS,371
+3298697.07482984,-181252.521784571,Rwanda,West,Nyakigezi Health Centre,Health Centre,Public,-1.628,29.6327,GPS,372
+3296047.67094895,-181620.02474742,Rwanda,West,Nyakiliba Health Centre,Health Centre,Public,-1.6313,29.6088999999999,GPS,373
+3267249.31868074,-187756.300586651,Rwanda,West,Nyakiriba Health Centre,Health Centre,Public,-1.6864,29.3502,Geonames,374
+3238272.85522725,-260693.747551637,Rwanda,West,Nyamasheke Health Centre,Health Centre,Public,-2.3412,29.0899,GPS,375
+3298018.025936,-216045.642121807,Rwanda,West,Nyamisa Fosacom Community-owned health facility,Health Post,CBO,-1.9404,29.6266,Combination,376
+3300211.01990463,-204406.434230717,Rwanda,West,Nyange A Health Centre,Health Centre,Public,-1.8359,29.6463,GPS,377
+3294622.7814668,-228621.251282079,Rwanda,West,Nyange B Health Centre,Health Centre,Public,-2.0533,29.5961,GPS,378
+3265201.04005014,-189593.875899035,Rwanda,West,Nyundo (rubavu) Health Centre,Health Centre,Public,-1.7029,29.3318,GPS,379
+3287208.90337996,-208872.688851567,Rwanda,West,Ramba Health Centre,Health Centre,Public,-1.876,29.5294999999999,GPS,380
+3286240.42381007,-186987.864630177,Rwanda,West,Rambura Health Centre,Health Centre,Public,-1.6795,29.5208,GPS,381
+3246788.79627292,-268024.863057757,Rwanda,West,Rangiro Health Centre,Health Centre,Public,-2.407,29.1663999999999,GPS,382
+3284281.20077211,-197790.769224394,Rwanda,West,Rubaya (ngororera) Health Centre,Health Centre,Public,-1.7765,29.5032,GPS,383
+3274251.31465164,-227251.147099776,Rwanda,West,Rubengera Health Centre,Health Centre,Public,-2.041,29.4131,GPS,384
+3300890.06879847,-218340.153345367,Rwanda,West,Rubona (ngororera) Health Centre,Health Centre,Public,-1.961,29.6524,GPS,385
+3288121.72320448,-230225.289094659,Rwanda,West,Rufungo Health Centre,Health Centre,Public,-2.0677,29.5377,GPS,386
+3282266.31798874,-234034.937419548,Rwanda,West,Rugabano Health Centre,Health Centre,Public,-2.1019,29.4850999999999,GPS,387
+3288900.95964002,-212102.712222313,Rwanda,West,Rugari Fosacom Community-owned health facility,Health Post,CBO,-1.905,29.5446999999999,GPS,388
+3247189.54643979,-261885.865743366,Rwanda,West,Ruheru (kanjongo Nyamasheke) Health Centre,Health Centre,Public,-2.3519,29.17,GPS,389
+3299999.51287212,-207580.694543134,Rwanda,West,Ruhunga Fosacom Community-owned health facility,Health Post,CBO,-1.8644,29.6444,GPS,390
+3292285.07216013,-184771.665943022,Rwanda,West,Rurembo Health Centre,Health Centre,Public,-1.6596,29.5750999999999,GPS,391
+3216354.04749005,-277607.099230021,Rwanda,West,Rusizi Health Centre,Health Centre,Public,-2.493,28.893,GPS,392
+3298496.69974641,-204963.318321904,Rwanda,West,Rususa Health Centre,Health Centre,Public,-1.8409,29.6309,GPS,393
+3279138.24029746,-213238.802291678,Rwanda,West,Rutsiro Health Centre,Health Centre,Public,-1.9152,29.457,GPS,394
+3287754.36888486,-176575.263483453,Rwanda,West,Rwankeri Health Centre,Health Centre,Public,-1.586,29.5344,GPS,395
+3221007.2022052,-293798.055630308,Rwanda,West,Rwinzuki Health Centre,Health Centre,Public,-2.6383,28.9347999999999,Geonames,396
+3298296.32466298,-187266.283140943,Rwanda,West,Shyira District Hospital,District Hospital,Public,-1.682,29.6291,GPS,397
+3286240.42381007,-186932.180970785,Rwanda,West,Shyira Health Centre,Health Centre,Public,-1.679,29.5208,GPS,398
+3250440.07557095,-267980.295946704,Rwanda,West,Yove Health Centre,Health Centre,Public,-2.4066,29.1992,GPS,399
+3304697.19538358,-302178.419884613,Rwanda,South,Ngera Health Centre,Health Centre,Public,-2.7135,29.6865999999999,GPS,400
+3298941.97770957,-175884.81916925,Rwanda,North,Nyakinama Health Centre,Health Centre,Public,-1.5798,29.6348999999999,GPS,401
+3305854.91808783,-305521.794965024,Rwanda,South,Ngoma Health Centre,Health Centre,Public,-2.7435,29.6969999999999,GPS,402
+3326549.2114263,-178568.654672038,Rwanda,North,Nyamugali Health Centre,Health Centre,Public,-1.6039,29.8828999999999,GPS,403
+3326827.5101533,-270364.654807871,Rwanda,South,Ntyazo Health Centre,Health Centre,Public,-2.428,29.8854,GPS,404
+3316285.55437517,-200530.563872022,Rwanda,North,Nyange (ruli) Health Centre,Health Centre,Public,-1.8011,29.7907,GPS,405
+3313958.9770176,-209540.96512824,Rwanda,South,Nyabikenke Health Centre,Health Centre,Public,-1.882,29.7698,GPS,406
+3291205.27309945,-165372.4974655,Rwanda,North,Nyarubuye (musanze) Health Post,Health Post,Public,-1.4854,29.5654,GPS,407
+3277735.61471346,-299503.779601409,Rwanda,South,Nyabimata Health Centre,Health Centre,Public,-2.6895,29.4444,GPS,408
+3301569.1176923,-178568.654672038,Rwanda,North,Nyundo (gakenke) Health Centre,Health Centre,Public,-1.6039,29.6585,GPS,409
+3304329.84106397,-197400.964019296,Rwanda,South,Nyabinoni Health Centre,Health Centre,Public,-1.773,29.6832999999999,GPS,410
+3339907.55032151,-198848.815650997,Rwanda,North,Remera-mbogo Health Centre,Health Centre,Public,-1.786,30.0029,GPS,411
+3324690.17593006,-232920.996587492,Rwanda,South,Nyagihamba Health Centre,Health Centre,Public,-2.0919,29.8661999999999,GPS,412
+3339228.50142767,-162978.335474206,Rwanda,North,Rubaya (gicumbi) Health Centre,Health Centre,Public,-1.4639,29.9968,GPS,413
+3293275.81562821,-276492.853960981,Rwanda,South,Nyamagabe Health Centre,Health Centre,Public,-2.483,29.584,GPS,414
+3310240.9060251,-156642.267813946,Rwanda,North,Rugarama Health Centre,Health Centre,Public,-1.407,29.7364,Google Earth,415
+3344560.70503666,-173011.701962692,Rwanda,North,Ruhenda Health Centre,Health Centre,Public,-1.554,30.0446999999999,GPS,416
+3299142.35279301,-167644.188981678,Rwanda,North,Ruhengeri Referral Hospital,Referral Hospital,Public,-1.5058,29.6367,GPS,417
+3312244.65685938,-181720.252932765,Rwanda,North,Ruhinga Health Post,Health Post,Public,-1.6322,29.7544,GPS,418
+3314426.51887893,-168111.892806065,Rwanda,North,Ruhombo Health Centre,Health Centre,Public,-1.51,29.774,GPS,419
+3333083.66553588,-175160.968471596,Rwanda,North,Ruhunde Health Centre,Health Centre,Public,-1.5733,29.9416,GPS,420
+3333796.11027696,-180762.518769702,Rwanda,North,Rukozo Health Centre,Health Centre,Public,-1.6236,29.948,GPS,421
+3320571.35477072,-188825.43340871,Rwanda,North,Rukura Health Centre,Health Centre,Public,-1.696,29.8292,GPS,422
+3322820.00848473,-203704.762493167,Rwanda,North,Ruli District Hospital,District Hospital,Public,-1.8296,29.8493999999999,GPS,423
+3324155.84237426,-190696.428628385,Rwanda,North,Ruli Health Centre,Health Centre,Public,-1.7128,29.8614,GPS,424
+3331870.28308623,-192088.548801884,Rwanda,North,Rulindo Health Centre,Health Centre,Public,-1.7253,29.9307,GPS,425
+3325157.7177914,-161552.984841266,Rwanda,North,Rusasa Health Centre,Health Centre,Public,-1.4511,29.8704,GPS,426
+3349759.32525671,-161987.270504521,Rwanda,North,Rushaki Health Centre,Health Centre,Public,-1.455,30.0914,GPS,427
+3323788.48805464,-192155.37079978,Rwanda,North,Rushashi Health Centre,Health Centre,Public,-1.7259,29.8581,GPS,428
+3303906.82699896,-190640.74401079,Rwanda,North,Rusoro Health Centre,Health Centre,Public,-1.7123,29.6795,GPS,429
+3308793.75264479,-186263.978167889,Rwanda,North,Rutake Health Centre,Health Centre,Public,-1.673,29.7234,GPS,430
+3359299.40561768,-192689.947542617,Rwanda,North,Rutare (gicumbi) Health Centre,Health Centre,Public,-1.7307,30.1770999999999,GPS,431
+3323109.4391608,-185540.094104199,Rwanda,North,Rutenderi Health Centre,Health Centre,Public,-1.6665,29.852,GPS,432
+3335933.44450018,-211367.598705498,Rwanda,North,Rutonde Health Centre,Health Centre,Public,-1.8984,29.9671999999999,GPS,433
+3336434.38220875,-210966.628879948,Rwanda,North,Rutonde Secondary Health Post,Secondary Health Post,Public,-1.8948,29.9716999999999,Geonames,434
+3346241.62934763,-202056.400472608,Rwanda,North,Rutongo District Hospital,District Hospital,Public,-1.8148,30.0597999999999,GPS,435
+3359510.91265019,-192433.796018051,Rwanda,North,Ruvune Health Centre,Health Centre,Public,-1.7284,30.1789999999999,Geonames,436
+3330946.33131265,-207112.905602751,Rwanda,North,Rwahi Health Centre,Health Centre,Public,-1.8602,29.9224,GPS,437
+3324434.14110124,-195808.338966468,Rwanda,North,Rwankuba Health Centre,Health Centre,Public,-1.7587,29.8639,GPS,438
+3305409.64012467,-172009.460061392,Rwanda,North,Rwaza Health Centre,Health Centre,Public,-1.545,29.693,GPS,439
+3325057.53024967,-167154.214513204,Rwanda,North,Rwerere Health Centre,Health Centre,Public,-1.5014,29.8694999999999,GPS,440
+3359243.7458723,-200330.089844773,Rwanda,North,Rwesero Health Centre,Health Centre,Public,-1.7993,30.1766,GPS,441
+3312222.39296122,-176497.309989697,Rwanda,North,Sereri Health Post,Health Post,Public,-1.5853,29.7542,GPS,442
+3289769.25166821,-166998.313752922,Rwanda,North,Shingiro Health Centre,Health Centre,Public,-1.5,29.5524999999999,GPS,443
+3337425.12567681,-207770.038002864,Rwanda,North,Shyorongi Health Centre,Health Centre,Public,-1.8661,29.9805999999999,GPS,444
+3335399.11094437,-206466.913182123,Rwanda,North,Shyorongi Secondary Health Post,Secondary Health Post,Public,-1.8544,29.9623999999999,Geonames,445
+3368761.56233512,-200385.77705471,Rwanda,North,Tanda Health Centre,Health Centre,Public,-1.7998,30.2621,GPS,446
+3327128.07277844,-185328.497675733,Rwanda,North,Tare Health Centre,Health Centre,Public,-1.6646,29.8881,GPS,447
+3333395.3601101,-189538.191568281,Rwanda,North,Tumba Health Centre,Health Centre,Public,-1.7024,29.9444,GPS,448
+3310474.67695575,-306435.665380025,Rwanda,South,Agahabwa Health Centre,Health Centre,Public,-2.7517,29.7384999999999,Other,449
+3282811.78349363,-273205.879421115,Rwanda,South,Bugarama Health Post,Health Post,Public,-2.4535,29.4899999999999,GPS,450
+3311409.76067843,-296249.704845155,Rwanda,South,Bukomeye (Mukura) Fosacom Community-owned health facility,Health Post,CBO,-2.6603,29.7469,Geonames,451
+3307992.25231108,-218897.077793923,Rwanda,South,Buramba Health Centre,Health Centre,Public,-1.966,29.7162,GPS,452
+3268562.88867209,-272916.183460047,Rwanda,South,Buruhukiro Health Centre,Health Centre,Public,-2.4509,29.3619999999999,GPS,453
+3331848.01918806,-254944.968169632,Rwanda,South,Busoro Health Centre,Health Centre,Public,-2.2896,29.9304999999999,GPS,454
+3305409.64012467,-296818.047940528,Rwanda,South,Busoro-Gishamvu Health Centre,Health Centre,Public,-2.6654,29.693,GPS,455
+3310697.31593735,-290443.823951405,Rwanda,South,Butare (CUSP) Health Centre,Health Centre,Public,-2.6082,29.7405,GPS,456
+3310107.32263614,-290867.277324913,Rwanda,South,Butare CHU National Referral Hospital,National Referral Hospital,Public,-2.612,29.7351999999999,GPS,457
+3311020.14246065,-240061.481911239,Rwanda,South,Byimana Health Centre,Health Centre,Public,-2.156,29.7434,GPS,458
+3292852.80156319,-302468.175761361,Rwanda,South,Coko Health Centre,Health Centre,Public,-2.7161,29.5802,GPS,459
+3296069.93484712,-305220.887786244,Rwanda,South,Cyahinda Health Centre,Health Centre,Public,-2.7408,29.6091,GPS,460
+3295413.14985144,-271768.547292138,Rwanda,South,Cyanika (Nyamagabe) Health Centre,Health Centre,Public,-2.4406,29.6032,GPS,461
+3307791.87722765,-265662.824140147,Rwanda,South,Cyaratsi Health Centre,Health Centre,Public,-2.3858,29.7144,GPS,462
+3336189.47932901,-243548.286279841,Rwanda,South,Cyeru Health Centre,Health Centre,Public,-2.1873,29.9695,GPS,463
+3319825.5141824,-255357.1799014,Rwanda,South,Gahombo Health Centre,Health Centre,Public,-2.2933,29.8225,GPS,464
+3330423.12970592,-261640.756584746,Rwanda,South,Gakoma District Hospital,District Hospital,Public,-2.3497,29.9177,GPS,465
+3330423.12970592,-261640.756584746,Rwanda,South,Gakoma Health Centre,Health Centre,Public,-2.3497,29.9177,GPS,466
+3305042.28580504,-193335.896245997,Rwanda,South,Gasagara (ex-birehe) Health Centre,Health Centre,Public,-1.7365,29.6896999999999,GPS,467
+3316686.30454203,-212882.381151408,Rwanda,South,Gasovu Health Centre,Health Centre,Public,-1.912,29.7943,GPS,468
+3311443.15652566,-255691.406412367,Rwanda,South,Gatagara (Nyanza) Health Centre,Health Centre,Public,-2.2963,29.7471999999999,GPS,469
+3335298.92340267,-216446.622641971,Rwanda,South,Gihara Health Centre,Health Centre,Public,-1.944,29.9615,GPS,470
+3302971.74327629,-228264.800401215,Rwanda,South,Gikomero (Kabgayi) Health Centre,Health Centre,Public,-2.0501,29.6710999999999,Geonames,471
+3323465.66153134,-276604.278107837,Rwanda,South,Gikonko (Gisagara) Health Centre,Health Centre,Public,-2.484,29.8552,GPS,472
+3316664.04064387,-304329.314943083,Rwanda,South,Gikore Health Centre,Health Centre,Public,-2.7328,29.7941,GPS,473
+3321539.83434062,-289418.62634153,Rwanda,South,Gisagara Health Centre,Health Centre,Public,-2.599,29.8379,GPS,474
+3325491.67626378,-287925.417096433,Rwanda,South,Gishubi Health Centre,Health Centre,Public,-2.5856,29.8734,GPS,475
+3301257.42311808,-236697.284978343,Rwanda,South,Gishweru Health Centre,Health Centre,Public,-2.1258,29.6557,GPS,476
+3315239.15116172,-231038.452705571,Rwanda,South,Gitarama Health Centre,Health Centre,Public,-2.075,29.7813,GPS,477
+3305276.05673572,-205854.336118444,Rwanda,South,Gitega (Kibangu) Health Centre,Health Centre,Public,-1.8489,29.6918,GPS,478
+3319391.36816831,-268782.505948471,Rwanda,South,Gitovu (Kinazi) Fosacom Community-owned health facility,Health Post,CBO,-2.4138,29.8186,Geonames,479
+3304997.75800873,-250199.039059933,Rwanda,South,Gitwe District Hospital,District Hospital,Public,-2.247,29.6892999999999,GPS,480
+3305075.68165229,-249530.609524358,Rwanda,South,Gitwe Health Centre,Health Centre,Public,-2.241,29.69,GPS,481
+3312600.87922992,-260838.583854709,Rwanda,South,Hanika I (Nyanza) Health Centre,Health Centre,Public,-2.3425,29.7576,GPS,482
+3292073.56512764,-254532.757502171,Rwanda,South,Jenda (Nyamagabe) Health Centre,Health Centre,Public,-2.2859,29.5732,GPS,483
+3311821.64279435,-234324.563203304,Rwanda,South,Kabgayi District Hospital,District Hospital,Public,-2.1045,29.7505999999999,GPS,484
+3312033.14982687,-234023.797975963,Rwanda,South,Kabgayi Health Centre,Health Centre,Public,-2.1018,29.7525,GPS,485
+3297661.80356546,-294098.9375097,Rwanda,South,Kabilizi Health Centre,Health Centre,Public,-2.641,29.6234,GPS,486
+3332660.65147085,-209863.966152496,Rwanda,South,Kabuga (Ntamba Kamonyi) Health Centre,Health Centre,Public,-1.8849,29.9377999999999,GPS,487
+3331458.4009703,-246389.027277301,Rwanda,South,Kabuga (Rugango) Health Post,Health Post,Public,-2.2128,29.927,Geonames,488
+3311454.28847474,-290343.532550393,Rwanda,South,Kabutare District Hospital,District Hospital,Public,-2.6073,29.7472999999999,GPS,489
+3286841.54906034,-259813.591365457,Rwanda,South,Kaduha District Hospital,District Hospital,Public,-2.3333,29.5261999999999,GPS,490
+3286696.83372231,-259780.167810377,Rwanda,South,Kaduha Health Centre,Health Centre,Public,-2.333,29.5248999999999,GPS,491
+3329076.16386732,-223174.313480987,Rwanda,South,Kamonyi (gacurabwenge) Health Centre,Health Centre,Public,-2.0044,29.9056,GPS,492
+3311843.90669252,-300807.660135871,Rwanda,South,Kansi Health Centre,Health Centre,Public,-2.7012,29.7508,GPS,493
+3299921.58922855,-290878.420852035,Rwanda,South,Karama (huye) Health Centre,Health Centre,Public,-2.6121,29.6436999999999,GPS,494
+3300689.69371504,-247803.845884481,Rwanda,South,Karambi (ruhango) Health Centre,Health Centre,Public,-2.2255,29.6506,GPS,495
+3328430.51082071,-211245.080059168,Rwanda,South,Karangara Health Centre,Health Centre,Public,-1.8973,29.8997999999999,GPS,496
+3323421.13373502,-212615.065732368,Rwanda,South,Kayenzi Health Centre,Health Centre,Public,-1.9096,29.8548,GPS,497
+3323922.07144359,-304240.15798587,Rwanda,South,Kibayi Health Centre,Health Centre,Public,-2.732,29.8593,GPS,498
+3289847.17531177,-294656.127902749,Rwanda,South,Kibeho Health Centre,Health Centre,Public,-2.646,29.5532,GPS,499
+3315428.39429607,-295001.587074675,Rwanda,South,Kibilizi (gisagara) Health Centre,Health Centre,Public,-2.6491,29.783,GPS,500
+3327873.91336676,-265651.682533681,Rwanda,South,Kibilizi (nyanza) Health Centre,Health Centre,Public,-2.3857,29.8948,GPS,501
+3315472.92209238,-294945.86779493,Rwanda,South,Kibilizi District Hospital,District Hospital,Public,-2.6486,29.7834,GPS,502
+3290604.14784916,-271133.451447204,Rwanda,South,Kibirizi (Nyamagabe) Health Centre,Health Centre,Public,-2.4349,29.5599999999999,GPS,503
+3278325.60801467,-267389.782958899,Rwanda,South,Kibumbwe Health Centre,Health Centre,Public,-2.4013,29.4497,GPS,504
+3310318.82966866,-309589.681190831,Rwanda,South,Kigembe Health Centre,Health Centre,Public,-2.78,29.7371,GPS,505
+3286797.02126404,-276080.585350595,Rwanda,South,Kigeme District Hospital,District Hospital,Public,-2.4793,29.5258,GPS,506
+3328942.58047836,-211334.184521496,Rwanda,South,Nyamiyaga (Kamonyi) Health Centre,Health Centre,Public,-1.8981,29.9043999999999,Geonames,507
+3325391.48872205,-261161.680707631,Rwanda,South,Nyamiyaga (Nyanza) Health Centre,Health Centre,Public,-2.3454,29.8724999999999,GPS,508
+3322686.42509578,-261562.767388009,Rwanda,South,Nyamure Health Centre,Health Centre,Public,-2.349,29.8481999999999,GPS,509
+3290114.34208967,-287669.121575181,Rwanda,South,Nyamyumba Health Centre,Health Centre,Public,-2.5833,29.5555999999999,GPS,510
+3300956.86049293,-303794.374090496,Rwanda,South,Nyantanga Health Centre,Health Centre,Public,-2.728,29.6529999999999,GPS,511
+3311676.92745633,-261963.855102152,Rwanda,South,Nyanza District Hospital,District Hospital,Public,-2.3526,29.7493,GPS,512
+3311610.13576185,-261952.713762786,Rwanda,South,Nyanza Health Centre,Health Centre,Public,-2.3525,29.7486999999999,GPS,513
+3325547.33600916,-249920.526420081,Rwanda,South,Nyarurama Health Centre,Health Centre,Public,-2.2445,29.8738999999999,GPS,514
+3304385.50080937,-232943.275334425,Rwanda,South,Nyarusange (muhanga) Health Centre,Health Centre,Public,-2.0921,29.6838,GPS,515
+3304986.62605966,-261618.473953118,Rwanda,South,Nyarusange (nyanza) Health Centre,Health Centre,Public,-2.3495,29.6892,GPS,516
+3292563.37088713,-281395.596682403,Rwanda,South,Nyarusiza Health Centre,Health Centre,Public,-2.527,29.5776,GPS,517
+3273750.37694307,-255680.265517368,Rwanda,South,Nyarwungo Health Centre,Health Centre,Public,-2.2962,29.4086,GPS,518
+3311287.30923855,-293853.77444755,Rwanda,South,Rango Health Centre,Health Centre,Public,-2.6388,29.7457999999999,GPS,519
+3329554.83767773,-215856.290506311,Rwanda,South,Remera Rukoma District Hospital,District Hospital,Public,-1.9387,29.9099,GPS,520
+3336545.70169955,-224756.024901547,Rwanda,South,Remera Rukoma Health Centre,Health Centre,Public,-2.0186,29.9727,Geonames,521
+3313780.86583233,-275824.310849581,Rwanda,South,Rubona (huye) Health Centre,Health Centre,Public,-2.477,29.7682,GPS,522
+3270722.48679348,-263713.055313155,Rwanda,South,Rugege Health Centre,Health Centre,Public,-2.3683,29.3813999999999,GPS,523
+3305732.46664797,-216947.849494919,Rwanda,South,Rugendabali Health Centre,Health Centre,Public,-1.9485,29.6959,Geonames,524
+3315250.2831108,-247191.127672811,Rwanda,South,Ruhango Health Centre,Health Centre,Public,-2.22,29.7814,GPS,525
+3329065.03191824,-244261.252008436,Rwanda,South,Ruhango Provincial Hospital,Provincial Hospital,Public,-2.1937,29.9055,GPS,526
+3309450.53764046,-276125.154874491,Rwanda,South,Ruhashya Health Centre,Health Centre,Public,-2.4797,29.7292999999999,GPS,527
+3278804.28182508,-305978.729387922,Rwanda,South,Ruheru Health Centre,Health Centre,Public,-2.7476,29.454,GPS,528
+3287821.16057933,-309567.391061937,Rwanda,South,Runyombyi Health Centre,Health Centre,Public,-2.7798,29.535,GPS,529
+3288333.23023698,-285039.333405025,Rwanda,South,Ruramba Health Centre,Health Centre,Public,-2.5597,29.5396,GPS,530
+3314471.04667524,-270788.049572135,Rwanda,South,Rusatira-kinazi Health Centre,Health Centre,Public,-2.4318,29.7744,GPS,531
+3317331.95758863,-219832.714625355,Rwanda,South,Rutobwe Health Centre,Health Centre,Public,-1.9744,29.8001,GPS,532
+3320671.54231243,-270019.25469793,Rwanda,South,Ruyenzi Health Centre,Health Centre,Public,-2.4249,29.8301,GPS,533
+3307869.8008712,-273807.557448457,Rwanda,South,Rwaniro Health Centre,Health Centre,Public,-2.4589,29.7151,GPS,534
+3314137.08820286,-283501.598381092,Rwanda,South,Save Health Centre,Health Centre,Public,-2.5459,29.7714,GPS,535
+3279872.94893669,-287513.115833017,Rwanda,South,Shaba (Nyamagabe) Health Centre,Health Centre,Public,-2.5819,29.4636,Geonames,536
+3314816.1370967,-236686.145363251,Rwanda,South,Shyogwe Health Centre,Health Centre,Public,-2.1257,29.7775,GPS,537
+3302559.86116036,-279913.613879271,Rwanda,South,Simbi Health Centre,Health Centre,Public,-2.5137,29.6674,GPS,538
+3308938.46798281,-285496.199895588,Rwanda,South,Sovu Health Centre,Health Centre,Public,-2.5638,29.7246999999999,GPS,539
+3278325.60801467,-275144.628457609,Rwanda,South,Uwinkingi Health Centre,Health Centre,Public,-2.4709,29.4497,GPS,540
+3274151.12710991,-186364.208457852,Rwanda,West,Arusha Health Centre,Health Centre,Public,-1.6739,29.4121999999999,GPS,541
+3275431.30125404,-180851.610147533,Rwanda,West,Bigogwe Health Centre,Health Centre,Public,-1.6244,29.4237,GPS,542
+3269241.93756593,-243693.107196996,Rwanda,West,Bigugu Health Centre,Health Centre,Public,-2.1886,29.3680999999999,Geonames,543
+3282722.727901,-247503.056658937,Rwanda,West,Biguhu Health Centre,Health Centre,Public,-2.2228,29.4892,GPS,544
+3286385.13914809,-238802.685226672,Rwanda,West,Birambo Health Centre,Health Centre,Public,-2.1447,29.5220999999999,GPS,545
+3286719.09762047,-188346.550344806,Rwanda,West,Birembo Health Centre,Health Centre,Public,-1.6917,29.5250999999999,GPS,546
+3263486.71989193,-206088.228954795,Rwanda,West,Biruyi Health Centre,Health Centre,Public,-1.851,29.3164,GPS,547
+3265657.44996238,-242467.703393199,Rwanda,West,Bisesero (Karongi) Health Centre,Health Centre,Public,-2.1776,29.3358999999999,GPS,548
+3273850.56448478,-205720.683193367,Rwanda,West,Bitenga Health Centre,Health Centre,Public,-1.8477,29.4095,GPS,549
+3276388.64887487,-230782.250067593,Rwanda,West,Bubazi Health Centre,Health Centre,Public,-2.0727,29.4323,GPS,550
+3229523.14325089,-294321.813397537,Rwanda,West,Bugarama (Rusizi) Health Centre,Health Centre,Public,-2.643,29.0112999999999,GPS,551
+3269186.27782053,-171196.533639247,Rwanda,West,Bugeshi Health Centre,Health Centre,Public,-1.5377,29.3675999999999,GPS,552
+3281898.96366913,-213116.282449686,Rwanda,West,Bungwe (Ngororero) Fosacom Community-owned health facility,Health Post,CBO,-1.9141,29.4818,Combination,553
+3266659.32537952,-178579.790984462,Rwanda,West,Busasamana Health Centre,Health Centre,Public,-1.604,29.3448999999999,GPS,554
+3226651.10038842,-272704.482921291,Rwanda,West,Bushenge Health Centre,Health Centre,Public,-2.449,28.9854999999999,GPS,555
+3226684.49623567,-272269.940650576,Rwanda,West,Bushenge Provincial Hospital,Provincial Hospital,Public,-2.4451,28.9858,GPS,556
+3260937.50355276,-182477.534007109,Rwanda,West,Busigari Health Centre,Health Centre,Public,-1.639,29.2935,Geonames,557
+3252087.60403468,-291524.746944414,Rwanda,West,Bweyeye Health Centre,Health Centre,Public,-2.6179,29.2139999999999,GPS,558
+3257720.37026883,-185161.448007836,Rwanda,West,Byahi (Rubavu) Health Centre,Health Centre,Public,-1.6631,29.2646,GPS,559
+3271234.55645113,-218674.307814542,Rwanda,West,Crete Congo Nil Health Centre,Health Centre,Public,-1.964,29.3859999999999,GPS,560
+3260837.31601105,-203493.147691343,Rwanda,West,Cyimbili Health Centre,Health Centre,Public,-1.8277,29.2926,GPS,561
+3256885.47408788,-255813.956308833,Rwanda,West,Cyivugiza (Nyamasheke) Health Centre,Health Centre,Public,-2.2974,29.2571,Geonames,562
+3257675.84247251,-186976.727897159,Rwanda,West,Gacuba Ii Health Centre,Health Centre,Public,-1.6794,29.2641999999999,GPS,563
+3282633.67230836,-192812.454903302,Rwanda,West,Gakamba Health Centre,Health Centre,Public,-1.7318,29.4883999999999,GPS,564
+3300366.86719174,-196242.690039028,Rwanda,West,Gashonyi Health Centre,Health Centre,CBO,-1.7626,29.6477,GPS,565
+3289490.95294123,-220044.347420847,Rwanda,West,Gashubi Health Centre,Health Centre,Public,-1.9763,29.55,GPS,566
+3284837.79822606,-202446.214593243,Rwanda,West,Gasiza Fosacom Community-owned health facility,Health Post,CBO,-1.8183,29.5081999999999,GPS,567
+3252243.45132179,-256281.874963971,Rwanda,West,Gatare (Macuba) Health Centre,Health Centre,Public,-2.3016,29.2153999999999,GPS,568
+3262718.61540545,-247814.986236742,Rwanda,West,Gatare (Twumba) Health Centre,Health Centre,Public,-2.2256,29.3095,GPS,569
+3300411.39498804,-214775.876098232,Rwanda,West,Gatumba Fosacom Community-owned health facility,Health Post,CBO,-1.929,29.6480999999999,GPS,570
+3225048.09972101,-275534.609775599,Rwanda,West,Giheke Health Centre,Health Centre,Public,-2.4744,28.9711,GPS,571
+3218769.68044027,-276492.853960981,Rwanda,West,Gihundwe District Hospital,District Hospital,Public,-2.483,28.9147,GPS,572
