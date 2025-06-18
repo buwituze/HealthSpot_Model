@@ -38,3 +38,7 @@ The machine learning algorithms (Logistic Regression and XGBoost) outperformed m
 - Navigate into the `.ipynb` notebook and **run all cells**
 - View the different visualization of the models' outputs on **charts/graphs** and on the **Map of Rwanda**
 - Navigate to the **Saved_models** folder and view the saved model files
+
+![Screenshot 2025-06-18 200047](https://github.com/user-attachments/assets/aa04ba6c-fa9b-49d4-9447-bdc55fb64128)
+
+
